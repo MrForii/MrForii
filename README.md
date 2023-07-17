@@ -30,7 +30,6 @@ In addition, I also have UX UI design skills, which allows me to understand user
 <br/>  
 
 
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I am currently learning React to develop more professional projects  
