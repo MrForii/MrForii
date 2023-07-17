@@ -69,15 +69,11 @@ In addition, I also have UX UI design skills, which allows me to understand user
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="50%">
+
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrforii&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+ 
 
 <br/>  
 
