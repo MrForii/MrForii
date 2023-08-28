@@ -1,5 +1,5 @@
 # 📌 Sobre Mi:
-Estudiante de Ingenieria en Sistemas en UTN FRC<br>Desarrollador Web<br>Diseñador UX/UI<br><br>
+#### Estudiante de Ingenieria en Sistemas en UTN FRC  |  Desarrollador Web  |  Diseñador UX/UI
 
 
 ## 🌐 Redes:
