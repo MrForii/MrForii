@@ -1,4 +1,4 @@
-# 📌 Sobre Mi:
+# 📌 Sobre Mi:  
 #### Estudiante de Ingenieria en Sistemas en UTN FRC  |  Desarrollador Web  |  Diseñador UX/UI
 
 
